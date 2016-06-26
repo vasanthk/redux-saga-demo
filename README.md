@@ -11,3 +11,5 @@
 [Managing Side Effects In React + Redux Using Sagas](http://jaysoo.ca/2016/01/03/managing-processes-in-redux-using-sagas/)
 
 [Handling async in Redux with Sagas](http://wecodetheweb.com/2016/01/23/handling-async-in-redux-with-sagas/)
+
+[Persist Redux State by using Sagas](http://engineering.invisionapp.com/post/persist-redux-state-by-using-sagas/)
