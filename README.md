@@ -13,3 +13,5 @@
 [Handling async in Redux with Sagas](http://wecodetheweb.com/2016/01/23/handling-async-in-redux-with-sagas/)
 
 [Persist Redux State by using Sagas](http://engineering.invisionapp.com/post/persist-redux-state-by-using-sagas/)
+
+[Video: Basics of Redux Thunk](https://www.youtube.com/watch?v=1QI-UE3-0PU)
